@@ -1,3 +1,3 @@
 # rust-vsts
 
-The project had moved to [rust-azure-devops](https://github.com/spontoreau/rust-azure-devops).
+The project was renamed. Go to [rust-azure-devops](https://github.com/spontoreau/rust-azure-devops).
