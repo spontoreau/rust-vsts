@@ -1,2 +1,3 @@
 # rust-vsts
-Tmp repository - Will be removed on next release of the extension.
+
+The project had moved to [rust-azure-devops](https://github.com/spontoreau/rust-azure-devops).
